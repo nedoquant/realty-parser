@@ -1,0 +1,21 @@
+# --- Личные учётные данные (НЕ публиковать!) ---
+cookie.txt
+avito_cookie.txt
+_avito_cookies.txt
+proxies.txt
+
+# --- Большие/временные артефакты ---
+*.har
+~$*.xlsx
+cian_объявления_*.xlsx
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# --- Служебное ---
+.claude/
+.DS_Store

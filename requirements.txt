@@ -1,0 +1,5 @@
+openpyxl>=3.1
+curl_cffi>=0.6
+requests>=2.31
+undetected-chromedriver>=3.5
+selenium>=4.18
